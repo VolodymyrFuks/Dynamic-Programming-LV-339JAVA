@@ -4,7 +4,7 @@
 #add .idea
 *.idea
 
-# Log file
+# Log
 *.log
 
 # BlueJ files
