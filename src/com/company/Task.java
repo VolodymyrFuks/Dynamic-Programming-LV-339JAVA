@@ -1,5 +1,11 @@
 package com.company;
 
+/**
+ * Task is generall interface for all dynamic algo tasks
+ */
 interface Task {
-    void solveTask(String... args);
+    /**
+     * Run method of each task
+     */
+    void solveTask();
 }
