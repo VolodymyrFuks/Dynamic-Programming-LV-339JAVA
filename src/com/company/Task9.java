@@ -5,7 +5,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Task9 implements com.company.Task {
+public class Task9 implements Task {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Please, enter number of days:");
@@ -46,8 +46,11 @@ public class Task9 implements com.company.Task {
     }
 
     @Override
-    public void solveTask(String... args) {
-        main(args);
+    public void solveTask() {
+        {
+            main(new String[]{});
+        }
+
     }
 }
 

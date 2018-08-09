@@ -52,7 +52,7 @@ public class Task13 implements Task {
     }
 
     @Override
-    public void solveTask(String... args) {
-        main(args);
+    public void solveTask() {
+        main(new String[]{});
     }
 }
