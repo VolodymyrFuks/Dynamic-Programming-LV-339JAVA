@@ -10,9 +10,20 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ * class Task 2 solves modificated fibonacci problem
+ * 1 1 1 2 3 4 6 9 13 ...
+ */
 public class Task2 implements Task {
+    /**
+     * this array is for storing modificated Fibonacci sequence
+     */
     static double[] fibArr2 = new double[100000];
 
+    /**
+     * @param n
+     * @return correspondent number in modificated fibonacci sequence
+     */
     static double modFibonacci(int n) {
         if (n <= 0 || n > 100000) {
             try {
