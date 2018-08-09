@@ -1,0 +1,50 @@
+/*
+ *
+ * Author: Kostiantyn Pryzyhlei
+ *
+ * Date: 09.08.2018
+ *
+ */
+
+package com.company;
+
+import java.util.Scanner;
+
+public class Task2 implements Task {
+    static double[] fibArr2 = new double[100000];
+
+    static double modFibonacci(int n) {
+        if (n <= 0 || n > 100000) {
+            try {
+                throw new Exception("Input value is less than 0 or too big");
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+                e.printStackTrace();
+            }
+        }
+        double f = 0;
+        if (fibArr2[n - 1] != 0) {
+            return fibArr2[n - 1];
+        } else if (n <= 3) {
+            f = 1;
+        } else {
+            f = modFibonacci(n - 1) + modFibonacci(n - 3);
+            fibArr2[n - 1] = f;
+        }
+        return f;
+    }
+
+    @Override
+    public void solveTask(String... args) {
+        try {
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Enter number: \n");
+            String input = scanner.nextLine();
+            int n = Integer.parseInt(input);
+            System.out.println(modFibonacci(n));
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            e.printStackTrace();
+        }
+    }
+}
