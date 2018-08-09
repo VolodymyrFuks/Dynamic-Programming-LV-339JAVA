@@ -6,9 +6,10 @@ package com.company;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class Task11 {
-    public static void main(String[] args) {
+class Task11 implements Task{
 
+    @Override
+    public void solveTask(String... args) {
         System.out.println(" Enter number of friends, each one can remain single or " +
                 "can be paired up with some other friend. " +
                 "Each friend can be paired only once. Program finds out " +
@@ -34,8 +35,13 @@ class Task11 {
         }
 
         System.out.println(countFriendsPairings(n));
+
     }
 
+    /**
+     * @param n number entered by user
+     * @return result of counting task 'Friend pairings'
+     */
     private static int countFriendsPairings(int n) {
         int dp[] = new int[n + 1];
 
@@ -48,26 +54,5 @@ class Task11 {
         }
 
         return dp[n];
-    }
-
-
-    /**
-     *
-     * @param   n   number entered by user
-     * @return  result of counting task 'Fibonacci'
-     */
-    private static int fibonacci(int n) {
-
-        int f[] = new int[n + 2];
-        int i;
-
-        f[0] = 0;
-        f[1] = 1;
-
-        for (i = 2; i <= n; i++) {
-            f[i] = f[i - 1] + f[i - 2];
-        }
-
-        return f[n];
     }
 }

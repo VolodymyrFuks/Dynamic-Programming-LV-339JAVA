@@ -6,9 +6,30 @@ package com.company;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class Task1 {
-    public static void main(String args[]) {
+class Task1 implements Task {
 
+
+    /**
+     * @param n number entered by user
+     * @return result of counting task 'Fibonacci'
+     */
+    private static int fibonacci(int n) {
+
+        int f[] = new int[n + 2];
+        int i;
+
+        f[0] = 0;
+        f[1] = 1;
+
+        for (i = 2; i <= n; i++) {
+            f[i] = f[i - 1] + f[i - 2];
+        }
+
+        return f[n];
+    }
+
+    @Override
+    public void solveTask(String... args) {
         System.out.println("This app finds number"
                 + " of position you'll enter in Fibonacci sequence ");
 
@@ -30,25 +51,7 @@ class Task1 {
             }
         }
         System.out.println(fibonacci(n + 1));
+
     }
 
-    /**
-     *
-     * @param   n   number entered by user
-     * @return  result of counting task 'Fibonacci'
-     */
-    private static int fibonacci(int n) {
-
-        int f[] = new int[n + 2];
-        int i;
-
-        f[0] = 0;
-        f[1] = 1;
-
-        for (i = 2; i <= n; i++) {
-            f[i] = f[i - 1] + f[i - 2];
-        }
-
-        return f[n];
-    }
 }
