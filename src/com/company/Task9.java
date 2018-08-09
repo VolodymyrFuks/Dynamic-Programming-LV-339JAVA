@@ -19,6 +19,7 @@ public class Task9 implements Task {
         for (int i = 0; i < n; i++) {
             high[i] = in.nextInt();
         }
+
         System.out.println("Please, enter Low level priority tasks(Example:3,4,5,6,7):");
         for (int i = 0; i < 5; i++) {
             low[i] = in.nextInt();
