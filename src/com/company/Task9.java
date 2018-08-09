@@ -12,20 +12,16 @@ public class Task9 implements Task {
         int n = in.nextInt();
         int[] high = new int[n];
         int[] low = new int[n];
-        String tempHigh[]=new String[n];
-        String tempLow[]=new String[n];
+        String tempHigh[] = new String[n];
+        String tempLow[] = new String[n];
+        String input = new String();
         System.out.println("Please, enter High level priority tasks(Example:3,4,5,6,7):");
-        tempHigh = in.nextLine().split(",");
-        if (in.hasNext())
-            System.out.println("Please, enter Low level priority tasks(Example:3,4,5,6,7):");
-        tempLow = in.nextLine().split(",");
         for (int i = 0; i < n; i++) {
-            tempHigh[i] = tempHigh[i].trim();
-            tempLow[i] = tempLow[i].trim();
+            high[i] = in.nextInt();
         }
-        for (int i = 0; i < tempHigh.length; i++) {
-            high[i] = Integer.parseInt(tempHigh[i]);
-            low[i] = Integer.parseInt(tempLow[i]);
+        System.out.println("Please, enter Low level priority tasks(Example:3,4,5,6,7):");
+        for (int i = 0; i < 5; i++) {
+            low[i] = in.nextInt();
         }
         System.out.println(maxTasks(high, low, n));
     }
