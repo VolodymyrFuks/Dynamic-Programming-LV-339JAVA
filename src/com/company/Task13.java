@@ -1,11 +1,15 @@
 /*
+* Made by Oleh Krutiak
+ */
+
+package com.company;/*
 * Code produced by Oleh Krutiak.
  */
 
 import java.util.Scanner;
 
 
-public class Task13 {
+public class Task13 implements Task {
 
     public static void main(String[] args) {
         System.out.print("Please, enter number of posts:");
@@ -45,5 +49,10 @@ public class Task13 {
         }
 
         return dp[3];
+    }
+
+    @Override
+    public void solveTask(String... args) {
+        main(args);
     }
 }
