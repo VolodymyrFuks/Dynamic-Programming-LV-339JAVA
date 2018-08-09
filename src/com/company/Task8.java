@@ -13,7 +13,7 @@ public class Task8 implements Task {
      * Check input params
      */
     @Override
-    public void solveTask(String... args) {
+    public void solveTask() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input number ");
         try {
@@ -37,7 +37,7 @@ public class Task8 implements Task {
      * @param n The number of points
      * @return The amount of paths without crossing
      */
-    private static int catalanDP(int n) {
+    public int catalanDP(int n) {
         int[] catalan = new int[n + 1];
 
         catalan[0] = catalan[1] = 1;

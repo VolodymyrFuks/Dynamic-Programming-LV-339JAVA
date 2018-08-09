@@ -13,7 +13,7 @@ public class Task6 implements Task{
      */
 
     @Override
-    public void solveTask(String[] args) {
+    public void solveTask() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input number ");
         try {
@@ -21,7 +21,7 @@ public class Task6 implements Task{
             System.out.print(countWays(inputNumber));
         } catch (InputMismatchException | NegativeArraySizeException e) {
             System.out.println("Please input positive number");
-            solveTask(args);
+            solveTask();
         }
     }
 
