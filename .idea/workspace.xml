@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ac65601d-819d-4534-8fda-f0c4c8537f86" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/Task14.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Task2.java" afterDir="false" />
+=======
+    <list default="true" id="d802e2cd-90ae-402f-9f7d-e4563056c012" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Task11.java" afterDir="false" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,33 +20,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="Task9.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-219">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+=======
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task13.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-179">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+=======
+      <file leaf-file-name="Task1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Task1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-317">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+=======
+      <file leaf-file-name="Task11.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Task11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-45">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,11 +82,21 @@
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#1260#0" expanded="true" />
+=======
+      <file leaf-file-name="Task9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Task9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#1792#0" expanded="true" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Task14.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Task14.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,6 +104,14 @@
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#974#0" expanded="true" />
+=======
+      <file leaf-file-name="Task13.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Task13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-480">
+              <folding>
+                <element signature="e#0#1433#0" expanded="true" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
               </folding>
             </state>
           </provider>
@@ -67,6 +119,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -74,12 +127,15 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/company/Task2.java" />
         <option value="$PROJECT_DIR$/src/com/company/Task14.java" />
       </list>
@@ -98,15 +154,33 @@
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+=======
+        <option value="$PROJECT_DIR$/src/com/company/Task1.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Task11.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,12 +191,31 @@
             <path>
               <item name="Dynamic-Programming-LV-339JAVA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dynamic-Programming-LV-339JAVA" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dynamic-Programming-LV-339JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dynamic-Programming-LV-339JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Dynamic-Programming-LV-339JAVA" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dynamic-Programming-LV-339JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
+            </path>
+            <path>
+              <item name="Dynamic-Programming-LV-339JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dynamic-Programming-LV-339JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -132,11 +225,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,6 +295,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="ac65601d-819d-4534-8fda-f0c4c8537f86" name="Default" comment="" />
       <created>1533808435403</created>
       <option name="number" value="Default" />
@@ -212,6 +310,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+=======
+      <changelist id="d802e2cd-90ae-402f-9f7d-e4563056c012" name="Default" comment="" />
+      <created>1533808694872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533808694872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -221,6 +331,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
@@ -230,12 +341,25 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
       <window_info anchor="right" id="Database" />
       <window_info id="Learn" />
+=======
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+=======
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -244,15 +368,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+=======
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Task9.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-219">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
@@ -278,10 +406,43 @@
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#1260#0" expanded="true" />
+=======
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#1792#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Task13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <folding>
+            <element signature="e#0#1433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/company/Task14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -289,10 +450,17 @@
           <folding>
             <element signature="e#0#974#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/Task11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -309,4 +477,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 918a791ff0ff77c5fce3898d8ff22980cf0084bb
 </project>
