@@ -1,6 +1,7 @@
-package com.company;
+package main.java.com.company;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  * Author: Mykhailo Dzhura
@@ -73,7 +74,7 @@ public class Task4 implements Task{
     }
 
     @Override
-    public void solveTask(String... args) {
+    public void solveTask() {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter your string of numbers, in format like<1,3,4,6,7,3>: ");
         String s = scan.next();

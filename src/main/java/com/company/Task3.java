@@ -1,6 +1,7 @@
-package com.company;
+package main.java.com.company;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  * Author: Mykhailo Dzhura

@@ -5,7 +5,7 @@
  * Date: 09.08.2018
  *
  */
-package com.company;
+package main.java.com.company;
 
 import java.util.Scanner;
 
@@ -28,7 +28,7 @@ public class Task14 implements Task {
     }
 
     @Override
-    public void solveTask(String... args) {
+    public void solveTask() {
         try {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Enter n: \n");

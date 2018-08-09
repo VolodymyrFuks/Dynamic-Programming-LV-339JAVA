@@ -1,11 +1,11 @@
 /*
  * Author: Dmytro Kiiko
  */
-package com.company;
+package main.java.com.company;
 
 import java.util.Scanner;
 
-public class Task5 implements com.company.Task {
+public class Task5 implements Task {
     /**
      * Counting the amount of the ways to sum up a number
      *
@@ -39,7 +39,7 @@ public class Task5 implements com.company.Task {
     }
 
     @Override
-    public void solveTask(String ...args) {
+    public void solveTask() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input the number which has to be represented");
         int num = scanner.nextInt();

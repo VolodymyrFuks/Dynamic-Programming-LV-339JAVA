@@ -1,7 +1,7 @@
 /**
  * Author shevromanvk
  */
-package com.company;
+package main.java.com.company;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 class Task11 implements Task{
 
     @Override
-    public void solveTask(String... args) {
+    public void solveTask() {
         System.out.println(" Enter number of friends, each one can remain single or " +
                 "can be paired up with some other friend. " +
                 "Each friend can be paired only once. Program finds out " +

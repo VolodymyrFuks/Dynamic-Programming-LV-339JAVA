@@ -6,7 +6,7 @@
  *
  */
 
-package com.company;
+package main.java.com.company;
 
 import java.util.Scanner;
 
@@ -46,7 +46,7 @@ public class Task2 implements Task {
     }
 
     @Override
-    public void solveTask(String... args) {
+    public void solveTask() {
         try {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Enter number: \n");

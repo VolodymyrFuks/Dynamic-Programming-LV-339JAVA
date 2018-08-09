@@ -1,7 +1,7 @@
 /*
 *   Made by Oleh Krutiak.
  */
-package com.company;
+package main.java.com.company;
 
 import java.util.Scanner;
 

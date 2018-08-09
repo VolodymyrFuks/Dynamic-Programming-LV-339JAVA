@@ -2,7 +2,7 @@
  * Author: Volodymyr Fuks
  */
 
-package com.company;
+package main.java.com.company;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

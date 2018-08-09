@@ -1,15 +1,15 @@
 /*
  * Author: Dmytro Kiiko
  */
-package com.company;
+package main.java.com.company;
 
 import java.util.Scanner;
 
-public class Task7 implements com.company.Task {
+public class Task7 implements Task {
 
 
     @Override
-    public void solveTask(String ...args) {
+    public void solveTask() {
         System.out.println("Enter the distance: ");
         Scanner scanner = new Scanner(System.in);
         int distance = scanner.nextInt();

@@ -1,4 +1,4 @@
-package com.company;
+package main.java.com.company;
 
 /**
  * Task is generall interface for all dynamic algo tasks

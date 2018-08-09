@@ -1,7 +1,7 @@
 /**
  * Author shevromanvk
  */
-package com.company;
+package main.java.com.company;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -29,7 +29,7 @@ class Task1 implements Task {
     }
 
     @Override
-    public void solveTask(String... args) {
+    public void solveTask() {
         System.out.println("This app finds number"
                 + " of position you'll enter in Fibonacci sequence ");
 
