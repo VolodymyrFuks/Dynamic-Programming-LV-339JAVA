@@ -1,5 +1,7 @@
 package com.company;
-
+/*
+ * Author: Volodymyr Fuks
+ */
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
