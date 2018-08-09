@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Author: Mykhailo Dzhura
  */
 
-public class task4 implements Task{
+public class Task4 implements Task{
 
     /**
      * Main function
@@ -74,7 +74,9 @@ public class task4 implements Task{
 
     @Override
     public void solveTask(String... args) {
-        String array = args[0];
-        runTaskFour(array);
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Enter your string of numbers, in format like<1,3,4,6,7,3>: ");
+        String s = scan.next();
+        runTaskFour(s);
     }
 }

@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Author: Mykhailo Dzhura
  */
 
-public class task3 implements Task{
+public class Task3 implements Task{
 
     /**
      * ArrayList for Jacobstal row
@@ -53,9 +53,10 @@ public class task3 implements Task{
     }
 
     @Override
-    public void solveTask(String... args) {
-        String array = args[0];
-        int position = Integer.parseInt(array);
-        runTaskThree(position);
+    public void solveTask() {
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Enter your number: ");
+        int s = scan.nextInt();
+        runTaskThree(s);
     }
 }
